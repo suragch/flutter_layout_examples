@@ -1,16 +1,7 @@
-# flutter_layout
+# Flutter layout examples
 
-Supplemental code for Flutter layout tutorial
+This Flutter project provides the supporting code for the tutorial [First steps with Flutter: Building layouts](TODO). Check it out for more details.
 
-## Getting Started
+## Setup
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+If you don't have the Flutter development environment set up, you can find the directions to do that on the [Flutter site](https://flutter.io/docs/get-started/install). After that you can clone this repository and run it in Android Studio or Visual Studio Code.
