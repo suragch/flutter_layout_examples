@@ -1,6 +1,6 @@
 # Flutter layout examples
 
-This Flutter project provides the supporting code for the tutorial [First steps with Flutter: Building layouts](TODO). Check it out for more details.
+This Flutter project provides the supporting code for the tutorial [First steps with Flutter: Building layouts](https://pusher.com/tutorials/flutter-building-layouts). Check it out for more details.
 
 ## Setup
 
